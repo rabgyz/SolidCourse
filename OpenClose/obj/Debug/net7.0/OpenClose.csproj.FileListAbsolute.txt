@@ -1,0 +1,5 @@
+/Users/bzyglowicz/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.csproj.AssemblyReference.cache
+/Users/bzyglowicz/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bzyglowicz/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.AssemblyInfoInputs.cache
+/Users/bzyglowicz/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.AssemblyInfo.cs
+/Users/bzyglowicz/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.csproj.CoreCompileInputs.cache
